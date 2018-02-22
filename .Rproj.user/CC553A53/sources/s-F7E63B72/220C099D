@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519329727309.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "591298815",
+    "id" : "220C099D",
+    "lastKnownWriteTime" : 1519331093,
+    "last_content_update" : 1519331093823,
+    "path" : "~/GitHub/College-Town-Economic-Development/Data cleaning.R",
+    "project_path" : "Data cleaning.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

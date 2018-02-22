@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519330626390.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "573B43A2",
+    "lastKnownWriteTime" : 32932997476909056,
+    "last_content_update" : 1519330626390,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "6D3945A8",
+        "caption" : "college.towns",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=college.towns&cache_key=6D3945A8",
+        "displayedObservations" : 945,
+        "environment" : "",
+        "object" : "college.towns",
+        "preview" : 0,
+        "totalObservations" : 945,
+        "variables" : 0
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
